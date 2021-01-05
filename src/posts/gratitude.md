@@ -1,6 +1,6 @@
-[comment]: TODO link this page to the one about creeping convenience, and its pitfalls
-[comment]: TODO copy alex trebek quote to quotes tee hee
-[comment]: TODO link UM below (write article how I go back and forth on this)
+[comment]: # "TODO link this page to the one about creeping convenience, and its pitfalls"
+[comment]: # "TODO copy alex trebek quote to quotes tee hee"
+[comment]: # "TODO link UM below (write article how I go back and forth on this)"
 
 # gratitude
 
@@ -10,7 +10,7 @@ Off and on for the past few years, I have kept a gratitude journal, but the habi
 
 November 2020 I had a paper on my wall to add something I was grateful for each day, so I could easily write them down, but also to be reminded of them each morning.  I copied the few notes and reminders of what I'm grateful for from that gratitude journal here and aim to continue. I hope sharing them publicly will encourage me to maintain this practice and others to do the same. (My goal was to transcribe the earliest entries as accurately as possible, that's why they look so... "ratchet"? unkempt? 🤷 )
 
-[comment]: list
+[comment]: # "list"
 
 ## 2021-01
 
