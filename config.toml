@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://mattharrison.cc/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "mh.cc"
+
+[params]
+    dark = on
