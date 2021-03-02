@@ -1,6 +1,24 @@
 baseURL = "https://mattharrison.cc/"
 languageCode = "en-us"
 title = "mh.cc"
+theme = "etch"
 
 [params]
-    dark = on
+    dark = "on"
+    css = ["css/custom.css"]
+
+[menu]
+
+  [[menu.main]]
+    identifier = "meta"
+    name = "meta"
+    # pre = "<i class='fa fa-heart'></i>"
+    url = "/meta/"
+    weight = -110
+
+  [[menu.main]]
+    name = "posts"
+    # post = "<span class='alert'>New!</span>"
+    # pre = "<i class='fa fa-road'></i>"
+    url = "/posts/"
+    weight = -100
